@@ -1,0 +1,24 @@
+{
+  "name": "feurbot",
+  "version": "1.0.0",
+  "description": "A Discord robot that responds \"feur\" when you say \"what\" (quoi). It's a French joke;)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "js",
+    "nodejs",
+    "node",
+    "bot",
+    "discordjs"
+  ],
+  "author": "Euzzeud#6040",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "lowdb": "^1.0.0",
+    "string-similarity": "^4.0.4"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "token":"TOKEN",
+    "prefix":"PREFIX",
+
+    "permissions":"93184",
+    "owner":"379063484530556929",
+
+    "emotes":{
+        "check":"✅",
+        "error":"❌",
+        "troll":"<:NAME OF YOUR TROLL EMOTE:ID>"
+    },
+
+    "database":{
+        "active":[]
+    }
+}
